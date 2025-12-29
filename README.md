@@ -18,4 +18,12 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=shodhan-16&icon=6&color=0)](https://visitcount.itsvg.in)
 
+[AWS Cloud Quest: Cloud Practitioner - Training Badge](https://www.credly.com/badges/83041789-e7db-499b-a6fb-be982f392cd7/public_url)<br>
+<img width="216" height="216" centre="50" alt="aws-cloud-quest-cloud-practitioner-training-badge (5)" src="https://github.com/user-attachments/assets/ab315919-e9cf-46b0-b422-c18d9ac56988" /><br>
+[AWS Knowledge: Cloud Essentials - Training Badge](https://www.credly.com/badges/e225ce6f-76cd-45d7-954a-9b947f7f4398/public_url)<br>
+<img width="216" height="216" alt="aws-knowledge-cloud-essentials-training-badge (2)" src="https://github.com/user-attachments/assets/8023cf46-faa5-478d-8ee8-1dbc3b22a8bd" />
+
+
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
