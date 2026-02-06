@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Aspiring Cloud Engineer<br>👯 I’m looking to collaborate with Cloud Enthusiast<br>🤝 I’m looking for help with CLoud Computing<br>🌱 I’m currently learning AWS<br>
+🔭 Aspiring Cloud Engineer<br>🤝 I’m looking for help with CLoud Computing<br>🌱 I’m currently learning AWS<br>
 
 
 ## 🌐 Socials:
